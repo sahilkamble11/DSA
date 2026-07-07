@@ -1,0 +1,14 @@
+D:\TAP\My Git Repos\DSA\01-07-2026\DSAPractice\bin\Debug\net10.0\DSAPractice.exe
+D:\TAP\My Git Repos\DSA\01-07-2026\DSAPractice\bin\Debug\net10.0\DSAPractice.deps.json
+D:\TAP\My Git Repos\DSA\01-07-2026\DSAPractice\bin\Debug\net10.0\DSAPractice.runtimeconfig.json
+D:\TAP\My Git Repos\DSA\01-07-2026\DSAPractice\bin\Debug\net10.0\DSAPractice.dll
+D:\TAP\My Git Repos\DSA\01-07-2026\DSAPractice\bin\Debug\net10.0\DSAPractice.pdb
+D:\TAP\My Git Repos\DSA\01-07-2026\DSAPractice\obj\Debug\net10.0\DSAPractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\TAP\My Git Repos\DSA\01-07-2026\DSAPractice\obj\Debug\net10.0\DSAPractice.AssemblyInfoInputs.cache
+D:\TAP\My Git Repos\DSA\01-07-2026\DSAPractice\obj\Debug\net10.0\DSAPractice.AssemblyInfo.cs
+D:\TAP\My Git Repos\DSA\01-07-2026\DSAPractice\obj\Debug\net10.0\DSAPractice.csproj.CoreCompileInputs.cache
+D:\TAP\My Git Repos\DSA\01-07-2026\DSAPractice\obj\Debug\net10.0\DSAPractice.dll
+D:\TAP\My Git Repos\DSA\01-07-2026\DSAPractice\obj\Debug\net10.0\refint\DSAPractice.dll
+D:\TAP\My Git Repos\DSA\01-07-2026\DSAPractice\obj\Debug\net10.0\DSAPractice.pdb
+D:\TAP\My Git Repos\DSA\01-07-2026\DSAPractice\obj\Debug\net10.0\DSAPractice.genruntimeconfig.cache
+D:\TAP\My Git Repos\DSA\01-07-2026\DSAPractice\obj\Debug\net10.0\ref\DSAPractice.dll

@@ -1,0 +1,15 @@
+D:\TAP\My Git Repos\DSA\LinkedList\CircularLinkedList\bin\Debug\net10.0\CircularLinkedList.exe
+D:\TAP\My Git Repos\DSA\LinkedList\CircularLinkedList\bin\Debug\net10.0\CircularLinkedList.deps.json
+D:\TAP\My Git Repos\DSA\LinkedList\CircularLinkedList\bin\Debug\net10.0\CircularLinkedList.runtimeconfig.json
+D:\TAP\My Git Repos\DSA\LinkedList\CircularLinkedList\bin\Debug\net10.0\CircularLinkedList.dll
+D:\TAP\My Git Repos\DSA\LinkedList\CircularLinkedList\bin\Debug\net10.0\CircularLinkedList.pdb
+D:\TAP\My Git Repos\DSA\LinkedList\CircularLinkedList\obj\Debug\net10.0\CircularLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\TAP\My Git Repos\DSA\LinkedList\CircularLinkedList\obj\Debug\net10.0\CircularLinkedList.AssemblyInfoInputs.cache
+D:\TAP\My Git Repos\DSA\LinkedList\CircularLinkedList\obj\Debug\net10.0\CircularLinkedList.AssemblyInfo.cs
+D:\TAP\My Git Repos\DSA\LinkedList\CircularLinkedList\obj\Debug\net10.0\CircularLinkedList.csproj.CoreCompileInputs.cache
+D:\TAP\My Git Repos\DSA\LinkedList\CircularLinkedList\obj\Debug\net10.0\CircularLinkedList.sourcelink.json
+D:\TAP\My Git Repos\DSA\LinkedList\CircularLinkedList\obj\Debug\net10.0\CircularLinkedList.dll
+D:\TAP\My Git Repos\DSA\LinkedList\CircularLinkedList\obj\Debug\net10.0\refint\CircularLinkedList.dll
+D:\TAP\My Git Repos\DSA\LinkedList\CircularLinkedList\obj\Debug\net10.0\CircularLinkedList.pdb
+D:\TAP\My Git Repos\DSA\LinkedList\CircularLinkedList\obj\Debug\net10.0\CircularLinkedList.genruntimeconfig.cache
+D:\TAP\My Git Repos\DSA\LinkedList\CircularLinkedList\obj\Debug\net10.0\ref\CircularLinkedList.dll
