@@ -17,9 +17,11 @@ public class Program
 
        circularLinkedList.InsertAnyWhere(4);
        circularLinkedList.InsertAnyWhere(5);
-
-        Console.WriteLine();
-              circularLinkedList.Display(); 
-
+       
+       circularLinkedList.Delete(1);
+       //circularLinkedList.Update(3,11);
+       Console.WriteLine();
+       
+       circularLinkedList.Display(); 
     }
 }

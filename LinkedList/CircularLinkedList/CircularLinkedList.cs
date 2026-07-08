@@ -5,9 +5,10 @@ namespace CircularLinkedList.DSACircularLinkedList;
 public class CircularLinkedList
 {
     Node head=null;
+    
     Node current=null;
 
-    public bool InsertAtStart(int data)
+    public void InsertAtStart(int data)
     {
         Node newNode=new Node(data);
         
@@ -15,7 +16,6 @@ public class CircularLinkedList
         {
             head=newNode;
             head.next=head;
-            return true;
         }
         else
         {
@@ -28,16 +28,9 @@ public class CircularLinkedList
             newNode.next=head;
             head=newNode;
 
-            return true;
         }
-        // else
-        // {
-        //     head.next.next=newNode;
-        //     head=newNode;
-        // }
-        return false;
     }
-    public bool InsertAtEnd(int data)
+    public void InsertAtEnd(int data)
     {
         Node newNode=new Node(data);
         current=head;
@@ -45,7 +38,6 @@ public class CircularLinkedList
         {
             head=newNode;
             head.next=head;
-            return true;
         }
         else
         {
@@ -56,12 +48,9 @@ public class CircularLinkedList
             }
             current.next=newNode;
             newNode.next=head;
-            return true;
         }
-        return false;
     }
-   
-    public bool InsertAnyWhere(int data)
+    public void InsertAnyWhere(int data)
     {
         Node newNode=new Node(data);
         current=head;
@@ -69,7 +58,6 @@ public class CircularLinkedList
         {
             head=newNode;
             head.next=head;
-            return true;
         }
         else
         {
@@ -80,7 +68,41 @@ public class CircularLinkedList
             newNode.next=current.next;
             current.next=newNode;
         }
-        return false;
+    }
+    public void Update(int oldValue,int newValue)
+    {
+        current=head;
+        while (current.data != oldValue)
+        {
+            current=current.next;
+        }
+        current.data=newValue;
+    }
+    public void Delete(int value)
+    {
+        if (head.data == value)
+        {
+            if (head.next == null)
+            {
+                head=null;
+            }
+            else
+            {
+                head=head.next;
+            }
+        }
+        else
+        {
+        current=head;
+
+        while (current.next.data != value)
+        {
+            current=current.next;
+        }
+        current.next=current.next.next;
+        current=current.next;
+        
+        }
     }
     public void Display()
     {
