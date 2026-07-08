@@ -80,30 +80,29 @@ public class CircularLinkedList
     }
     public void Delete(int value)
     {
-        if (head.data == value)
-        {
-            if (head.next == null)
-            {
-                head=null;
-            }
-            else
-            {
-                head=head.next;
-            }
-        }
-        else
-        {
-        current=head;
-
-        while (current.next.data != value)
-        {
-            current=current.next;
-        }
-        current.next=current.next.next;
-        current=current.next;
-        
-        }
+    if (head == null)
+    {
+        return;
     }
+
+    if (head.data == value)
+    {
+        head = head.next;
+        return;
+    }
+
+    Node current = head;
+
+    while (current.next != null && current.next.data != value)
+    {
+        current = current.next;
+    }
+
+    if (current.next != null)
+    {
+        current.next = current.next.next;
+    }
+}
     public void Display()
     {
         Console.Write("Linked List: ");
