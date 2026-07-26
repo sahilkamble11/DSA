@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\TAP\\My Git Repos\\DSA\\01-07-2026\\DSAPractice\\DSAPractice.csproj": {}
+    "D:\\TAP\\My Git Repos\\DSA\\LinkedList\\SinglyLinkedList\\DSAPractice.csproj": {}
   },
   "projects": {
-    "D:\\TAP\\My Git Repos\\DSA\\01-07-2026\\DSAPractice\\DSAPractice.csproj": {
+    "D:\\TAP\\My Git Repos\\DSA\\LinkedList\\SinglyLinkedList\\DSAPractice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\TAP\\My Git Repos\\DSA\\01-07-2026\\DSAPractice\\DSAPractice.csproj",
+        "projectUniqueName": "D:\\TAP\\My Git Repos\\DSA\\LinkedList\\SinglyLinkedList\\DSAPractice.csproj",
         "projectName": "DSAPractice",
-        "projectPath": "D:\\TAP\\My Git Repos\\DSA\\01-07-2026\\DSAPractice\\DSAPractice.csproj",
+        "projectPath": "D:\\TAP\\My Git Repos\\DSA\\LinkedList\\SinglyLinkedList\\DSAPractice.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\TAP\\My Git Repos\\DSA\\01-07-2026\\DSAPractice\\obj\\",
+        "outputPath": "D:\\TAP\\My Git Repos\\DSA\\LinkedList\\SinglyLinkedList\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"

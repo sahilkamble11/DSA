@@ -1,0 +1,15 @@
+D:\TAP\My Git Repos\DSA\.NET\String Problems\bin\Debug\net10.0\String Problems.exe
+D:\TAP\My Git Repos\DSA\.NET\String Problems\bin\Debug\net10.0\String Problems.deps.json
+D:\TAP\My Git Repos\DSA\.NET\String Problems\bin\Debug\net10.0\String Problems.runtimeconfig.json
+D:\TAP\My Git Repos\DSA\.NET\String Problems\bin\Debug\net10.0\String Problems.dll
+D:\TAP\My Git Repos\DSA\.NET\String Problems\bin\Debug\net10.0\String Problems.pdb
+D:\TAP\My Git Repos\DSA\.NET\String Problems\obj\Debug\net10.0\String Problems.GeneratedMSBuildEditorConfig.editorconfig
+D:\TAP\My Git Repos\DSA\.NET\String Problems\obj\Debug\net10.0\String Problems.AssemblyInfoInputs.cache
+D:\TAP\My Git Repos\DSA\.NET\String Problems\obj\Debug\net10.0\String Problems.AssemblyInfo.cs
+D:\TAP\My Git Repos\DSA\.NET\String Problems\obj\Debug\net10.0\String Problems.csproj.CoreCompileInputs.cache
+D:\TAP\My Git Repos\DSA\.NET\String Problems\obj\Debug\net10.0\String Problems.sourcelink.json
+D:\TAP\My Git Repos\DSA\.NET\String Problems\obj\Debug\net10.0\String Problems.dll
+D:\TAP\My Git Repos\DSA\.NET\String Problems\obj\Debug\net10.0\refint\String Problems.dll
+D:\TAP\My Git Repos\DSA\.NET\String Problems\obj\Debug\net10.0\String Problems.pdb
+D:\TAP\My Git Repos\DSA\.NET\String Problems\obj\Debug\net10.0\String Problems.genruntimeconfig.cache
+D:\TAP\My Git Repos\DSA\.NET\String Problems\obj\Debug\net10.0\ref\String Problems.dll
