@@ -1,0 +1,15 @@
+D:\TAP\My Git Repos\DSA\QueueLinkedList\obj\Debug\net10.0\QueueLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\TAP\My Git Repos\DSA\QueueLinkedList\obj\Debug\net10.0\QueueLinkedList.AssemblyInfoInputs.cache
+D:\TAP\My Git Repos\DSA\QueueLinkedList\obj\Debug\net10.0\QueueLinkedList.AssemblyInfo.cs
+D:\TAP\My Git Repos\DSA\QueueLinkedList\obj\Debug\net10.0\QueueLinkedList.csproj.CoreCompileInputs.cache
+D:\TAP\My Git Repos\DSA\QueueLinkedList\obj\Debug\net10.0\QueueLinkedList.sourcelink.json
+D:\TAP\My Git Repos\DSA\QueueLinkedList\bin\Debug\net10.0\QueueLinkedList.exe
+D:\TAP\My Git Repos\DSA\QueueLinkedList\bin\Debug\net10.0\QueueLinkedList.deps.json
+D:\TAP\My Git Repos\DSA\QueueLinkedList\bin\Debug\net10.0\QueueLinkedList.runtimeconfig.json
+D:\TAP\My Git Repos\DSA\QueueLinkedList\bin\Debug\net10.0\QueueLinkedList.dll
+D:\TAP\My Git Repos\DSA\QueueLinkedList\bin\Debug\net10.0\QueueLinkedList.pdb
+D:\TAP\My Git Repos\DSA\QueueLinkedList\obj\Debug\net10.0\QueueLinkedList.dll
+D:\TAP\My Git Repos\DSA\QueueLinkedList\obj\Debug\net10.0\refint\QueueLinkedList.dll
+D:\TAP\My Git Repos\DSA\QueueLinkedList\obj\Debug\net10.0\QueueLinkedList.pdb
+D:\TAP\My Git Repos\DSA\QueueLinkedList\obj\Debug\net10.0\QueueLinkedList.genruntimeconfig.cache
+D:\TAP\My Git Repos\DSA\QueueLinkedList\obj\Debug\net10.0\ref\QueueLinkedList.dll

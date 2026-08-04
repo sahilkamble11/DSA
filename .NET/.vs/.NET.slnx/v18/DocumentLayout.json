@@ -1,12 +1,105 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\TAP\\My Git Repos\\DSA\\.NET\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\TAP\\My Git Repos\\DSA\\.NET\\String Problems\\ReverseString.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:String Problems\\ReverseString.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\TAP\\My Git Repos\\DSA\\.NET\\String Problems\\LengthOfString.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:String Problems\\LengthOfString.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\TAP\\My Git Repos\\DSA\\.NET\\String Problems\\CopyString.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:String Problems\\CopyString.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\TAP\\My Git Repos\\DSA\\.NET\\String Problems\\CompareString.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:String Problems\\CompareString.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\TAP\\My Git Repos\\DSA\\.NET\\String Problems\\Ascii.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:String Problems\\Ascii.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReverseString.cs",
+              "DocumentMoniker": "D:\\TAP\\My Git Repos\\DSA\\.NET\\String Problems\\ReverseString.cs",
+              "RelativeDocumentMoniker": "String Problems\\ReverseString.cs",
+              "ToolTip": "D:\\TAP\\My Git Repos\\DSA\\.NET\\String Problems\\ReverseString.cs",
+              "RelativeToolTip": "String Problems\\ReverseString.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-26T11:17:10.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CopyString.cs",
+              "DocumentMoniker": "D:\\TAP\\My Git Repos\\DSA\\.NET\\String Problems\\CopyString.cs",
+              "RelativeDocumentMoniker": "String Problems\\CopyString.cs",
+              "ToolTip": "D:\\TAP\\My Git Repos\\DSA\\.NET\\String Problems\\CopyString.cs",
+              "RelativeToolTip": "String Problems\\CopyString.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-26T11:15:08.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LengthOfString.cs",
+              "DocumentMoniker": "D:\\TAP\\My Git Repos\\DSA\\.NET\\String Problems\\LengthOfString.cs",
+              "RelativeDocumentMoniker": "String Problems\\LengthOfString.cs",
+              "ToolTip": "D:\\TAP\\My Git Repos\\DSA\\.NET\\String Problems\\LengthOfString.cs",
+              "RelativeToolTip": "String Problems\\LengthOfString.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-26T11:14:54.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CompareString.cs",
+              "DocumentMoniker": "D:\\TAP\\My Git Repos\\DSA\\.NET\\String Problems\\CompareString.cs",
+              "RelativeDocumentMoniker": "String Problems\\CompareString.cs",
+              "ToolTip": "D:\\TAP\\My Git Repos\\DSA\\.NET\\String Problems\\CompareString.cs",
+              "RelativeToolTip": "String Problems\\CompareString.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-26T11:12:38.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ascii.cs",
+              "DocumentMoniker": "D:\\TAP\\My Git Repos\\DSA\\.NET\\String Problems\\Ascii.cs",
+              "RelativeDocumentMoniker": "String Problems\\Ascii.cs",
+              "ToolTip": "D:\\TAP\\My Git Repos\\DSA\\.NET\\String Problems\\Ascii.cs",
+              "RelativeToolTip": "String Problems\\Ascii.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-26T11:12:32.768Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
