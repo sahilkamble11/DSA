@@ -1,0 +1,15 @@
+D:\TAP\My Git Repos\DSA\QueueArray\bin\Debug\net10.0\QueueArray.exe
+D:\TAP\My Git Repos\DSA\QueueArray\bin\Debug\net10.0\QueueArray.deps.json
+D:\TAP\My Git Repos\DSA\QueueArray\bin\Debug\net10.0\QueueArray.runtimeconfig.json
+D:\TAP\My Git Repos\DSA\QueueArray\bin\Debug\net10.0\QueueArray.dll
+D:\TAP\My Git Repos\DSA\QueueArray\bin\Debug\net10.0\QueueArray.pdb
+D:\TAP\My Git Repos\DSA\QueueArray\obj\Debug\net10.0\QueueArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\TAP\My Git Repos\DSA\QueueArray\obj\Debug\net10.0\QueueArray.AssemblyInfoInputs.cache
+D:\TAP\My Git Repos\DSA\QueueArray\obj\Debug\net10.0\QueueArray.AssemblyInfo.cs
+D:\TAP\My Git Repos\DSA\QueueArray\obj\Debug\net10.0\QueueArray.csproj.CoreCompileInputs.cache
+D:\TAP\My Git Repos\DSA\QueueArray\obj\Debug\net10.0\QueueArray.sourcelink.json
+D:\TAP\My Git Repos\DSA\QueueArray\obj\Debug\net10.0\QueueArray.dll
+D:\TAP\My Git Repos\DSA\QueueArray\obj\Debug\net10.0\refint\QueueArray.dll
+D:\TAP\My Git Repos\DSA\QueueArray\obj\Debug\net10.0\QueueArray.pdb
+D:\TAP\My Git Repos\DSA\QueueArray\obj\Debug\net10.0\QueueArray.genruntimeconfig.cache
+D:\TAP\My Git Repos\DSA\QueueArray\obj\Debug\net10.0\ref\QueueArray.dll
