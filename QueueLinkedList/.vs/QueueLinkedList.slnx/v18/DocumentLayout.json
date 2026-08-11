@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\TAP\\My Git Repos\\DSA\\QueueLinkedList\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DF16612D-46B9-1C36-D9D0-A34F79ACC410}|QueueLinkedList.csproj|d:\\tap\\my git repos\\dsa\\queuelinkedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF16612D-46B9-1C36-D9D0-A34F79ACC410}|QueueLinkedList.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DF16612D-46B9-1C36-D9D0-A34F79ACC410}|QueueLinkedList.csproj|d:\\tap\\my git repos\\dsa\\queuelinkedlist\\queue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF16612D-46B9-1C36-D9D0-A34F79ACC410}|QueueLinkedList.csproj|solutionrelative:queue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF16612D-46B9-1C36-D9D0-A34F79ACC410}|QueueLinkedList.csproj|d:\\tap\\my git repos\\dsa\\queuelinkedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF16612D-46B9-1C36-D9D0-A34F79ACC410}|QueueLinkedList.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DF16612D-46B9-1C36-D9D0-A34F79ACC410}|QueueLinkedList.csproj|d:\\tap\\my git repos\\dsa\\queuelinkedlist\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -42,13 +42,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Queue.cs",
               "DocumentMoniker": "D:\\TAP\\My Git Repos\\DSA\\QueueLinkedList\\Queue.cs",
               "RelativeDocumentMoniker": "Queue.cs",
               "ToolTip": "D:\\TAP\\My Git Repos\\DSA\\QueueLinkedList\\Queue.cs",
               "RelativeToolTip": "Queue.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAASwCUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-04T06:07:24.714Z",
               "EditorCaption": ""
@@ -63,12 +63,11 @@
               "RelativeToolTip": "Node.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-04T06:04:38.051Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-04T06:04:38.051Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\TAP\\My Git Repos\\DSA\\QueueLinkedList\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",

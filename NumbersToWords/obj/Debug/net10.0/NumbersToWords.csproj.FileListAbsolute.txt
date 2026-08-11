@@ -1,0 +1,15 @@
+D:\TAP\My Git Repos\DSA\NumbersToWords\bin\Debug\net10.0\NumbersToWords.exe
+D:\TAP\My Git Repos\DSA\NumbersToWords\bin\Debug\net10.0\NumbersToWords.deps.json
+D:\TAP\My Git Repos\DSA\NumbersToWords\bin\Debug\net10.0\NumbersToWords.runtimeconfig.json
+D:\TAP\My Git Repos\DSA\NumbersToWords\bin\Debug\net10.0\NumbersToWords.dll
+D:\TAP\My Git Repos\DSA\NumbersToWords\bin\Debug\net10.0\NumbersToWords.pdb
+D:\TAP\My Git Repos\DSA\NumbersToWords\obj\Debug\net10.0\NumbersToWords.GeneratedMSBuildEditorConfig.editorconfig
+D:\TAP\My Git Repos\DSA\NumbersToWords\obj\Debug\net10.0\NumbersToWords.AssemblyInfoInputs.cache
+D:\TAP\My Git Repos\DSA\NumbersToWords\obj\Debug\net10.0\NumbersToWords.AssemblyInfo.cs
+D:\TAP\My Git Repos\DSA\NumbersToWords\obj\Debug\net10.0\NumbersToWords.csproj.CoreCompileInputs.cache
+D:\TAP\My Git Repos\DSA\NumbersToWords\obj\Debug\net10.0\NumbersToWords.sourcelink.json
+D:\TAP\My Git Repos\DSA\NumbersToWords\obj\Debug\net10.0\NumbersToWords.dll
+D:\TAP\My Git Repos\DSA\NumbersToWords\obj\Debug\net10.0\refint\NumbersToWords.dll
+D:\TAP\My Git Repos\DSA\NumbersToWords\obj\Debug\net10.0\NumbersToWords.pdb
+D:\TAP\My Git Repos\DSA\NumbersToWords\obj\Debug\net10.0\NumbersToWords.genruntimeconfig.cache
+D:\TAP\My Git Repos\DSA\NumbersToWords\obj\Debug\net10.0\ref\NumbersToWords.dll

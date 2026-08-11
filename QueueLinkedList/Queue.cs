@@ -23,24 +23,36 @@ namespace QueueLinkedList
             }
         }
 
-       public bool Dequeue()
+        public int Dequeue()
         {
             if(front == null)
             {
                 Console.WriteLine("Empty Queue..");
-                return false;
             }
-
             int value = front.data;
-            Console.WriteLine("Front Value: " +value);
+            //Console.WriteLine("Front Value: " +value);
 
             front=front.next;
 
-            Display();
+            //Traverse();
 
-            return true;
+            return value;
         }
-        public void Display()
+
+        public void Peek()
+        {
+            if(front == null)
+            {
+                Console.WriteLine("Empty Queue..");
+            }
+
+            Console.WriteLine("Front Element: "+ front.data);
+
+
+            
+        }
+
+        public void Traverse()
         {
             Node current = front;
             while (current != null)
