@@ -1,0 +1,15 @@
+D:\TAP\My Git Repos\DSA\Stack\bin\Debug\net10.0\Stack.exe
+D:\TAP\My Git Repos\DSA\Stack\bin\Debug\net10.0\Stack.deps.json
+D:\TAP\My Git Repos\DSA\Stack\bin\Debug\net10.0\Stack.runtimeconfig.json
+D:\TAP\My Git Repos\DSA\Stack\bin\Debug\net10.0\Stack.dll
+D:\TAP\My Git Repos\DSA\Stack\bin\Debug\net10.0\Stack.pdb
+D:\TAP\My Git Repos\DSA\Stack\obj\Debug\net10.0\Stack.GeneratedMSBuildEditorConfig.editorconfig
+D:\TAP\My Git Repos\DSA\Stack\obj\Debug\net10.0\Stack.AssemblyInfoInputs.cache
+D:\TAP\My Git Repos\DSA\Stack\obj\Debug\net10.0\Stack.AssemblyInfo.cs
+D:\TAP\My Git Repos\DSA\Stack\obj\Debug\net10.0\Stack.csproj.CoreCompileInputs.cache
+D:\TAP\My Git Repos\DSA\Stack\obj\Debug\net10.0\Stack.sourcelink.json
+D:\TAP\My Git Repos\DSA\Stack\obj\Debug\net10.0\Stack.dll
+D:\TAP\My Git Repos\DSA\Stack\obj\Debug\net10.0\refint\Stack.dll
+D:\TAP\My Git Repos\DSA\Stack\obj\Debug\net10.0\Stack.pdb
+D:\TAP\My Git Repos\DSA\Stack\obj\Debug\net10.0\Stack.genruntimeconfig.cache
+D:\TAP\My Git Repos\DSA\Stack\obj\Debug\net10.0\ref\Stack.dll
