@@ -2,7 +2,7 @@ namespace StackDSA;
 
 public class Stack
 {
-    int current=-1;
+    int top=-1;
     int [] arr;
     int size;
 
@@ -10,43 +10,43 @@ public class Stack
     {
         this.size=size;
         arr=new int [size];
-       // current=0;
+       // top=0;
     }
 
     public void Push(int data)
     {
-        if (current == size-1)
+        if (top == size-1)
         {
             Console.WriteLine("Stack Overflow..");
             return;
             
         }
-        current++;
-        arr[current]=data;
-        Console.WriteLine("Inserting: "+arr[current]);
+        top++;
+        arr[top]=data;
+        Console.WriteLine("Inserting: "+arr[top]);
         
          
     }
 
     public void Pop()
     {
-        if(current==-1)
+        if(top==-1)
         {
             Console.WriteLine("Stack is Empty..");
             return;
         }
-        Console.WriteLine("Popped Element: "+arr[current]);
-        current--;
+        Console.WriteLine("Popped Element: "+arr[top]);
+        top--;
     }
 
     public void Peek()
     {
-        if(current==-1)
+        if(top==-1)
         {
             Console.WriteLine("Stack is Empty..");
             return;
         }
-        Console.WriteLine("Last Inserted Element: "+ arr[current]);
+        Console.WriteLine("Last Inserted Element: "+ arr[top]);
         
     }
 }

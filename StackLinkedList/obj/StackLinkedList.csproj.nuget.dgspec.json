@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\TAP\\My Git Repos\\DSA\\QueueArray\\QueueArray.csproj": {}
+    "D:\\TAP\\My Git Repos\\DSA\\StackLinkedList\\StackLinkedList.csproj": {}
   },
   "projects": {
-    "D:\\TAP\\My Git Repos\\DSA\\QueueArray\\QueueArray.csproj": {
+    "D:\\TAP\\My Git Repos\\DSA\\StackLinkedList\\StackLinkedList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\TAP\\My Git Repos\\DSA\\QueueArray\\QueueArray.csproj",
-        "projectName": "QueueArray",
-        "projectPath": "D:\\TAP\\My Git Repos\\DSA\\QueueArray\\QueueArray.csproj",
+        "projectUniqueName": "D:\\TAP\\My Git Repos\\DSA\\StackLinkedList\\StackLinkedList.csproj",
+        "projectName": "StackLinkedList",
+        "projectPath": "D:\\TAP\\My Git Repos\\DSA\\StackLinkedList\\StackLinkedList.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\TAP\\My Git Repos\\DSA\\QueueArray\\obj\\",
+        "outputPath": "D:\\TAP\\My Git Repos\\DSA\\StackLinkedList\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

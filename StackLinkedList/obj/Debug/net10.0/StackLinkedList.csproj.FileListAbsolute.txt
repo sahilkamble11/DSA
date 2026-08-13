@@ -1,0 +1,15 @@
+D:\TAP\My Git Repos\DSA\StackLinkedList\bin\Debug\net10.0\StackLinkedList.exe
+D:\TAP\My Git Repos\DSA\StackLinkedList\bin\Debug\net10.0\StackLinkedList.deps.json
+D:\TAP\My Git Repos\DSA\StackLinkedList\bin\Debug\net10.0\StackLinkedList.runtimeconfig.json
+D:\TAP\My Git Repos\DSA\StackLinkedList\bin\Debug\net10.0\StackLinkedList.dll
+D:\TAP\My Git Repos\DSA\StackLinkedList\bin\Debug\net10.0\StackLinkedList.pdb
+D:\TAP\My Git Repos\DSA\StackLinkedList\obj\Debug\net10.0\StackLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\TAP\My Git Repos\DSA\StackLinkedList\obj\Debug\net10.0\StackLinkedList.AssemblyInfoInputs.cache
+D:\TAP\My Git Repos\DSA\StackLinkedList\obj\Debug\net10.0\StackLinkedList.AssemblyInfo.cs
+D:\TAP\My Git Repos\DSA\StackLinkedList\obj\Debug\net10.0\StackLinkedList.csproj.CoreCompileInputs.cache
+D:\TAP\My Git Repos\DSA\StackLinkedList\obj\Debug\net10.0\StackLinkedList.sourcelink.json
+D:\TAP\My Git Repos\DSA\StackLinkedList\obj\Debug\net10.0\StackLinkedList.dll
+D:\TAP\My Git Repos\DSA\StackLinkedList\obj\Debug\net10.0\refint\StackLinkedList.dll
+D:\TAP\My Git Repos\DSA\StackLinkedList\obj\Debug\net10.0\StackLinkedList.pdb
+D:\TAP\My Git Repos\DSA\StackLinkedList\obj\Debug\net10.0\StackLinkedList.genruntimeconfig.cache
+D:\TAP\My Git Repos\DSA\StackLinkedList\obj\Debug\net10.0\ref\StackLinkedList.dll

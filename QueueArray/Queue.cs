@@ -27,15 +27,15 @@ public class Queue
 
     }
 
-    public void Dequeue()
+    public int Dequeue()
     {
         if (front > rear)
         {
             Console.WriteLine("Queue is Empty..");
-            return;
+            return 0;
         }
         Console.WriteLine();
-        Console.WriteLine("Removed: "+ arr[front]);
+         return arr[front];
         
         front++;
     }
