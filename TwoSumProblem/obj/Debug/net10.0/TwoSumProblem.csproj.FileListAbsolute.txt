@@ -1,0 +1,15 @@
+D:\TAP\My Git Repos\DSA\TwoSumProblem\bin\Debug\net10.0\TwoSumProblem.exe
+D:\TAP\My Git Repos\DSA\TwoSumProblem\bin\Debug\net10.0\TwoSumProblem.deps.json
+D:\TAP\My Git Repos\DSA\TwoSumProblem\bin\Debug\net10.0\TwoSumProblem.runtimeconfig.json
+D:\TAP\My Git Repos\DSA\TwoSumProblem\bin\Debug\net10.0\TwoSumProblem.dll
+D:\TAP\My Git Repos\DSA\TwoSumProblem\bin\Debug\net10.0\TwoSumProblem.pdb
+D:\TAP\My Git Repos\DSA\TwoSumProblem\obj\Debug\net10.0\TwoSumProblem.GeneratedMSBuildEditorConfig.editorconfig
+D:\TAP\My Git Repos\DSA\TwoSumProblem\obj\Debug\net10.0\TwoSumProblem.AssemblyInfoInputs.cache
+D:\TAP\My Git Repos\DSA\TwoSumProblem\obj\Debug\net10.0\TwoSumProblem.AssemblyInfo.cs
+D:\TAP\My Git Repos\DSA\TwoSumProblem\obj\Debug\net10.0\TwoSumProblem.csproj.CoreCompileInputs.cache
+D:\TAP\My Git Repos\DSA\TwoSumProblem\obj\Debug\net10.0\TwoSumProblem.sourcelink.json
+D:\TAP\My Git Repos\DSA\TwoSumProblem\obj\Debug\net10.0\TwoSumProblem.dll
+D:\TAP\My Git Repos\DSA\TwoSumProblem\obj\Debug\net10.0\refint\TwoSumProblem.dll
+D:\TAP\My Git Repos\DSA\TwoSumProblem\obj\Debug\net10.0\TwoSumProblem.pdb
+D:\TAP\My Git Repos\DSA\TwoSumProblem\obj\Debug\net10.0\TwoSumProblem.genruntimeconfig.cache
+D:\TAP\My Git Repos\DSA\TwoSumProblem\obj\Debug\net10.0\ref\TwoSumProblem.dll
