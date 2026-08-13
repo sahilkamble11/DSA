@@ -35,7 +35,6 @@ public class Stack
         Console.WriteLine($"Last Inserted Element: {top.data}");
         return ;
     }
-
     public bool IsEmpty()
     {
         if (top == null)
